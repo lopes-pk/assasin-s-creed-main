@@ -1,6 +1,5 @@
 # Assassin's Creed Page
 
-## 📸 Prévia do Projeto:
 ![Assassin's Creed Page](image.png)
 
 ## 📖 Descrição:
